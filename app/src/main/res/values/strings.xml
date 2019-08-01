@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OKHTTP</string>
+    <string name="load_api">Load Api</string>
+    <string name="post_request">Post Request</string>
+    <string name="press">Press a button</string>
+</resources>
